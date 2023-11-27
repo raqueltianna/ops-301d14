@@ -7,7 +7,7 @@
 ## Fundamental Concepts: 
 
 ### Readings
-- [Reading 01: Network Traffic Analysis with Wireshark]
+- [Reading 01: Network Traffic Analysis with Wireshark](reading01-networktrafficanalysis.md)
 - [Reading 02: Network Scanning with NMAP]
 - [Reading 03: Network Segmentation]
 - [Reading 04: Routing]

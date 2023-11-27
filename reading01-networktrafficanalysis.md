@@ -8,7 +8,7 @@
 ## Layers of OSI Mode
 
 ### What does “OSI” stand for?
-  - OSI stands for "Open System Information"
+  - OSI stands for "Open System Interconnnection"
 ### List the 7 layers of the OSI model and what each one is responsible for.
   - The 7 layers of the OSI model are:
     - Physical: this deals with the physical connection between devices such as power plugs and receivers.

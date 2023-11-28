@@ -8,7 +8,7 @@
 
 ### Readings
 - [Reading 01: Network Traffic Analysis with Wireshark](reading01-networktrafficanalysis.md)
-- [Reading 02: Network Scanning with NMAP]
+- [Reading 02: Network Scanning with NMAP](reading2-networkscanning.md)
 - [Reading 03: Network Segmentation]
 - [Reading 04: Routing]
 - [Reading 05: VPN Tunnel]

@@ -30,4 +30,4 @@
   - Ping: Ping doesn't use a specific port. It uses ICMP. it is used to test the reachability on an IP.
 
 ## Things I want to know more about: 
-  - Throughout the entirity of the course we have talked about ports so I think I want to dig a litle deeper and become even more comfortable with different ports. 
+  - Throughout the entirety of the course we have talked about ports so I think I want to dig a litle deeper and become even more comfortable with different ports. 

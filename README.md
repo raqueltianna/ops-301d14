@@ -15,3 +15,5 @@
   
 ### Ops Challenges
 - [Append; Date and Time](dateandtimeappend.sh)
+- [File Permissions using Chmod](filepermissions.sh)
+

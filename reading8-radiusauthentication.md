@@ -30,6 +30,7 @@
 #### Additional Resources 
 - [AAA Overview](https://techhub.hpe.com/eginfolib/networking/docs/switches/3100v2/5998-5996s_security_cg/content/450465875.htm)
 - [How authentication protocols work](https://networkradius.com/articles/2022/02/20/how-authentication-protocols-work.html)
+- [Radius Authentication Pros & Cons](https://jumpcloud.com/blog/radius-pros-cons)
 - [Authentication Methods](https://www.professormesser.com/network-plus/n10-008/n10-008-video/authentication-methods-n10-008/)
 - [Defense in Depth](https://www.professormesser.com/network-plus/n10-008/n10-008-video/defense-in-depth-n10-008/)
 - [RADIUS and TACACS](https://www.professormesser.com/security-plus/sy0-401/radius-and-tacacs-2/)

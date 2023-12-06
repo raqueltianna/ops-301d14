@@ -20,3 +20,4 @@
 - [Append; Date and Time](dateandtimeappend.sh)
 - [File Permissions using Chmod](filepermissions.sh)
 - [Bash in Python](bashinpython.py)
+- [Clearing Logs](clearinglogs.sh)

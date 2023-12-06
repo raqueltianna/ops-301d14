@@ -11,8 +11,10 @@
 - [Reading 02: Network Scanning with NMAP](reading2-networkscanning.md)
 - [Reading 03: Network Segmentation](reading3-networksegment.md)
 - [Reading 04: Routing](reading4-routing.md)
-- [Reading 05: VPN Tunnel]
+- [Reading 05: VPN Tunnel](reading5-vpntunnel.md)
 - [Reading 06: Network Address Translation](reading6-networkaddresstranslate.md)
+- [Reading 07: Web Server Deployment](reading7-webserverdeployment.md)
+- [Reading 08: RADIUS Authentication](reading8-radiusauthentication.md)
   
 ### Ops Challenges
 - [Append; Date and Time](dateandtimeappend.sh)

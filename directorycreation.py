@@ -2,7 +2,7 @@
 # Author name:                          Tianna Farrow
 # Date of latest revision:              12/04/2023
 # Purpose:                              utilize bash prompts in python
-# Execution:                            python3 bashinpython3 
+# Execution:                            python3 directorycreation.py
 # Additional Resources:                 https://github.com/codefellows/seattle-ops-301d14/blob/main/class-07/demo.py
 
 

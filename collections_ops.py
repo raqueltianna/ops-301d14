@@ -5,7 +5,7 @@
 # Date of latest revision:              12/07/2023
 # Purpose:                              working with list in python
 # Execution:                            python3 collections.py
-# Additional Resources:                 https://github.com/codefellows/seattle-ops-301d14/blob/main/class-08/challenges/DEMO.md; https://www.programiz.com/python-programming/methods/list/append; 
+# Additional Resources:                 https://github.com/codefellows/seattle-ops-301d14/blob/main/class-08/challenges/DEMO.md; https://www.programiz.com/python-programming/methods/list/append; https://noteable.io/blog/python-lists-basics/
 
 
 

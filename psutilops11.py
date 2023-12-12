@@ -5,7 +5,7 @@
 # Date of latest revision:              12/07/2023
 # Purpose:                              Using Psutil to fetch system information
 # Execution:                            python3 psutilops11.py
-# Additional Resources:                 https://readthedocs.org/projects/giamptest/downloads/pdf/latest/; https://www.educative.io/answers/what-is-the-psutilcputimes-method-in-python; https://ioflood.com/blog/python-create-file/#:~:text=To%20create%20a%20file%20in,if%20it%20does%20not%20exist.
+# Additional Resources:                 https://readthedocs.org/projects/giamptest/downloads/pdf/latest/; https://www.educative.io/answers/what-is-the-psutilcputimes-method-in-python; https://ioflood.com/blog/python-create-file/#:~:text=To%20create%20a%20file%20in,if%20it%20does%20not%20exist; https://github.com/codefellows/seattle-ops-301d14/tree/main/class-11/challenges; https://github.com/codefellows/seattle-ops-301d14/blob/main/class-11/challenges/DEMO.md
 
 # Imports 
 import psutil

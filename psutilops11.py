@@ -32,7 +32,7 @@ def get_cpu_times():
         print_cpu_time("Time spent for servicing software interrupts", psutil.cpu_times().softirq, file)
         print_cpu_time("Time spent by other operating systems running in a virtualized environment", psutil.cpu_times().steal, file)
         print_cpu_time("Time spent running a virtual CPU for guest operating systems under the control of the Linux kernel", psutil.cpu_times().guest, file)
-        print_cpu_time("Time spent running a virtual CPU for guest operating systems under the control of the Linux kernel (including time spent in userspace)", psutil.cpu_times().guest_nice, file)
+       
 
 if __name__ == "__main__":
         get_cpu_times()

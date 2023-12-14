@@ -20,7 +20,7 @@ $office = "Springfield, OR"
 New-ADUser -SamAccountName $username -GivenName $firstName -Surname $lastName `
     -DisplayName "$firstName $lastName" -Title $jobTitle -Department $department `
     -EmailAddress $email -Office $office -Enabled $true `
-    -UserPrincipalName "$username@yourdomain.com" -AccountPassword (ConvertTo-SecureString "P@ssw0rd" -AsPlainText -Force)
+    -UserPrincipalName "$username@corp.globex.com" -AccountPassword (ConvertTo-SecureString "P@ssw0rd" -AsPlainText -Force)
 
 # Output
 Write-Host "User $username added successfully."
